@@ -1,6 +1,6 @@
 package org.gayatri.SpringJDBC.DAO;
 
-import org.gayatri.SpringJDBC.module.Student;
+import org.gayatri.SpringJDBC.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;

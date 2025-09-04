@@ -1,6 +1,6 @@
 package org.gayatri.SpringJDBC;
 
-import org.gayatri.SpringJDBC.module.Student;
+import org.gayatri.SpringJDBC.model.Student;
 import org.gayatri.SpringJDBC.service.StudentService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
