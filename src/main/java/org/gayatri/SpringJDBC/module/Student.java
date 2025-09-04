@@ -1,4 +1,4 @@
-package org.gayatri.SpringJDBC.modul;
+package org.gayatri.SpringJDBC.module;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
